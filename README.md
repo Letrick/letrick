@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
  <div>
   <a href="https://https:github.com/Letrick">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=letrick&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" length="50" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letrick&layout=compact&langs_count=7&theme=radical"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=letrick&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="130em" length="50" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letrick&layout=compact&langs_count=7&theme=radical"/>
   <img alt="Rafa-yoda" height="150" margin-left: "100px" src="https://i.pinimg.com/originals/05/57/fb/0557fbe4db1c69f754e7fa97ec940422.gif">
   <img align="right" alt="Rafa-yoda" height="150" margin-left: "90px"   src="https://media.giphy.com/media/A2MWlHJ4HS9OgPhWFc/giphy.gif">
     
