@@ -23,7 +23,8 @@ Here are some ideas to get you started:
   <img valign: "right" alt="Patrick-mercy"  height="150" margin-left: "100px" src="https://i.pinimg.com/originals/05/57/fb/0557fbe4db1c69f754e7fa97ec940422.gif">
 
   <img  valign="top" alt="Patrick-C++"     height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  
+   <img  valign="top" alt="Patrick-C++"     height="30" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg">
+
 ##
 <div> 
     
